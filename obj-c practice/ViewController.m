@@ -90,8 +90,7 @@
         [basicScene.rootNode addChildNode:shapeNode];
         
         
-        CGFloat hue = num / 0.98;
-        
+
         double val = ((double)arc4random() / arc4randommax);
         NSLog(@"%f", val);
 
